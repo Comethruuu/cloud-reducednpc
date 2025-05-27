@@ -34,4 +34,4 @@ local DensityMultiplier = 0.1 -- Change from 0.0 to 1.0 as needed
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by @Cloudsupremacy a.k.a Comethruuu
+[Cloud](https://github.com/Comethruuu)
