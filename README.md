@@ -1,4 +1,4 @@
-# Reduced NPC
+# Reduced NPC FiveM [ESX / QB Core]
 
 This FiveM client-side script reduces the density of NPCs in the game, allowing only vehicle NPCs (cars and trucks) to spawn. It removes pedestrians and completely suppresses all motorcycles from appearing in traffic.
 
