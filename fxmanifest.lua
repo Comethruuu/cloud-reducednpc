@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Cloud a.k.a Comethruuu'
+author 'cloud'
 description 'Reduced NPC'
 version '1.0.0'
 
