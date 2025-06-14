@@ -1,3 +1,5 @@
+
+---
 # Reduced NPC FiveM [ESX / QB Core]
 This FiveM client-side script reduces the density of NPCs in the game, allowing only vehicle NPCs (cars and trucks) to spawn. It removes pedestrians and completely suppresses all motorcycles from appearing in traffic.
 
@@ -11,7 +13,6 @@ This FiveM client-side script reduces the density of NPCs in the game, allowing 
 ---
 
 ## 📁 Installation
-
 1. Download or clone this resource into your `resources` folder
 2. Add the following line to your `server.cfg` 
    ```cfg
@@ -19,9 +20,7 @@ This FiveM client-side script reduces the density of NPCs in the game, allowing 
    ```
 
 ---
-
 ## 🔧 Configuration
-
 You can change the vehicle density by modifying the value of `DensityMultiplier` in `client.lua`:
 
 ```cfg
@@ -29,7 +28,11 @@ local DensityMultiplier = 0.1 -- Change from 0.0 to 1.0 as needed
 ```
 
 ---
-
 ## 🧑‍💻 Author
-
 [Cloud](https://github.com/Comethruuu)
+
+---
+## 💖 Support
+If you find this project useful, please consider leaving a ⭐ star and 🔁 forking it to make it your own!
+
+---
